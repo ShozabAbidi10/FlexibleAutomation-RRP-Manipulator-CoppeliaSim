@@ -2,8 +2,7 @@
 
 ## Virtual Prototyping of a Robotics Work Cell with CoppeliaSim
 
-Prototype solution for one of problem in their loading and unloading station. The station receives three different kind of boxes which it segregate and load it to the appropriate
-loading line. The respository contain the design a flexible manufacturing cell (FMC) with robot centered layout for the above function. The design handle the following requirements:
+Prototyped solution is for one of the problem in loading and unloading station. The station receives three different kind of boxes which it segregate based on color and load it to the appropriate loading line. The design of the flexible manufacturing cell (FMC) is based on robot centered layout for the above function. The design handle the following requirements:
 
 1. Ability to supply multiple vendors at the same time
 2. Fully automated solution from product in to out
